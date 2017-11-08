@@ -1,0 +1,10 @@
+C:\Users\Irene\documents\visual studio 2015\Projects\SeaBattleApp\SeaBattleApp\obj\Debug\SeaBattleApp.exe
+C:\Users\Irene\documents\visual studio 2015\Projects\SeaBattleApp\SeaBattleApp\obj\Debug\SeaBattleApp.pdb
+C:\Users\Irene\documents\visual studio 2015\Projects\SeaBattleApp\SeaBattleApp\bin\Debug\SeaBattleApp.exe.config
+C:\Users\Irene\documents\visual studio 2015\Projects\SeaBattleApp\SeaBattleApp\bin\Debug\SeaBattleApp.exe.manifest
+C:\Users\Irene\documents\visual studio 2015\Projects\SeaBattleApp\SeaBattleApp\bin\Debug\SeaBattleApp.application
+C:\Users\Irene\documents\visual studio 2015\Projects\SeaBattleApp\SeaBattleApp\bin\Debug\SeaBattleApp.exe
+C:\Users\Irene\documents\visual studio 2015\Projects\SeaBattleApp\SeaBattleApp\bin\Debug\SeaBattleApp.pdb
+C:\Users\Irene\documents\visual studio 2015\Projects\SeaBattleApp\SeaBattleApp\obj\Debug\SeaBattleApp.exe.manifest
+C:\Users\Irene\documents\visual studio 2015\Projects\SeaBattleApp\SeaBattleApp\obj\Debug\SeaBattleApp.application
+C:\Users\Irene\documents\visual studio 2015\Projects\SeaBattleApp\SeaBattleApp\obj\Debug\SeaBattleApp.csprojResolveAssemblyReference.cache
